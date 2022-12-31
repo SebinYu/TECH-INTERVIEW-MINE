@@ -18,8 +18,9 @@
 
 </div>
 
-**:book: Contents** 0. [Project Info](#0-Project-Info)
+**:book: Contents**
 
+0. [Project Info](#0-Project-Info)
 1. [Data Structure](#1-data-structure)
 2. [Network](#2-network)
 3. [Operating System](#3-operating-system)
